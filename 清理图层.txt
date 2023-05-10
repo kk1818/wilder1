@@ -1,0 +1,13 @@
+(dictremove (namedobjdict)"ACAD_DGNLINESTYLECOMP")
+11,         *CloseSelLayer   关闭选择图层
+22,         *OpenLayer       打开图层
+33,         *OpenAllLayer    打开所有图层
+44,         *LockSelLayer    锁定选择图层
+55,         *UnLockSelLayer  解锁选择图层
+66,         *OpenSelLayer    打开选择图层
+77,         *sfxc            锁定选择以外的图层
+88,	    *TFreezeLayer    冻结选择图层
+99,	    *TUnFreezeLayer  解冻选择图层
+00,         *tcgl            图层标准管理器
+
+青草绿    #E3EDCD    RGB(227, 237, 205)
